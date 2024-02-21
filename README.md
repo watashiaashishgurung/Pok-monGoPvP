@@ -1,2 +1,2 @@
-# Pok-monGoPvP
+# PokémonGoPvP
 Pokémon Go PvP Master League Encounter Prediction Model
