@@ -1,3 +1,7 @@
+Long time ago I made a power point presentation to work on my presentational skills about our favorite childhood game. Pokémon Go.
+Have a look at the slides and enjoy th eshow.  "imagination is more important than knowledge" - Einstein
+
+
 ---
 title: "Master League Top 10 types"
 author: "Aashish Gurung"
